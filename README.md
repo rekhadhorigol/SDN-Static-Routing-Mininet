@@ -122,3 +122,7 @@ Flow tables verified correct forwarding behavior and consistent routing was obse
 - Mininet Documentation
 - POX Controller Documentation
 - Open vSwitch Documentation
+
+## Note
+- Mininet, Open vSwitch and POX were installed using apt and Git
+- POX is an SDN controller. SDN is the architecture and POX is one implementation used to control the network
